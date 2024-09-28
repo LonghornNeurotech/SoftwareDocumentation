@@ -46,6 +46,8 @@ Through projects involving brain-computer interfaces (BCIs), our club aims to en
 **Purpose of the Role:**  
 As the Real-Time Signal Processing Team Lead, you will oversee the development of algorithms and pipelines that process EEG data in real time. Your leadership will ensure that our signal processing is robust, efficient, and compatible with downstream machine learning models.
 
+**Time Commitment:** We expect around 4-5 hours a week outside of team meetings.
+
 ---
 
 ## 3. Team Structure
