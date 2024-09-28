@@ -111,7 +111,6 @@ Your team will focus on interpreting the machine learning models developed by Te
 
 - **Documentation:** Keep comprehensive records of methodologies and findings. Documentation should not only provide information on how to use the application but should also allow the user to learn from it.
 
-
 ---
 
 ## 10. Goals for Your First 90 Days
@@ -139,13 +138,12 @@ Your team will focus on interpreting the machine learning models developed by Te
 ## 11. Contacts and Support
 
 - **Executive Team:**
-  - **President:** [Name], [Contact Information]
-  - **Vice President:** [Name], [Contact Information]
-- **Project Manager:** [Name], [Contact Information]
+  - **President:** Taima Crean
+  - **Captain:** Holland Ernst
+- **Software Lead:** Nathan Feldt
 - **Other ML Team Leads:**
-  - **ML Team 1 Lead:** [Name], [Contact Information]
-  - **ML Team 2 Lead:** [Name], [Contact Information]
-- **Faculty Advisor:** [Name], [Contact Information]
+  - **ML Team 1 Lead:** Matthew Xu
+  - **ML Team 2 Lead:** Miran Ahmed
 
 ---
 
