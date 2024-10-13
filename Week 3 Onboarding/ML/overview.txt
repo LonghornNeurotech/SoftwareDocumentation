@@ -1,0 +1,1 @@
+In this week, you all will be working on the kaggle house price competition dataset. For those that have already worked with the dataset and would find this to be a waste of time, we will give you a BCI dataset. 
